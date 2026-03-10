@@ -8,15 +8,16 @@
 
 1. **Core Components of the Application Process:** GRE, TOEFL, CV, SoP, LoR
 2. **Choosing Economics Departments**
-3. **Building Your School List** (includes a probability model for why applying broadly matters)
+3. **Building Your School List**
 4. **Selecting Your Letter Writers**
 5. **Diversity Statement and Personal Statement**
-6. **Preparing for Interviews** (covers both economics and finance departments)
-7. **Documents Required**
+6. **Use of LLMs in writing**
+7. **Preparing for Interviews** 
+8. **Documents Required**
    - 7.1 Transcripts and Grade Conversion
    - 7.2 List of Related Coursework
-8. **Application Fees and Fee Waivers**
-9. **Appendix**
+9. **Application Fees and Fee Waivers**
+10. **Appendix**
    - 9.1 Curated Resources & Further Reading
    - 9.2 Final Application Checklist
    - 9.3 Expense Tracker
